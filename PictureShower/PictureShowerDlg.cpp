@@ -30,6 +30,8 @@ extern "C" {
 class CAboutDlg : public CDialogEx
 {
 public:
+
+	//hhjhhghghg
 	CAboutDlg();
 
 // 对话框数据
